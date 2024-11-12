@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Fullstack Developer** passionate about creating efficient, scalable, and user-friendly applications. Currently, I'm diving deeper into **React**, **Flutter**, and **SQLite**, with the goal of becoming a **Software Engineer**. My journey involves both backend and frontend development, and I also have a strong interest in **UI/UX design**.
+I'm a **Fullstack Developer** passionate about creating efficient, scalable, and user-friendly applications. Currently, I'm diving deeper into **React**, **Flutter**, **Tailwind** and **SQLite**, with the goal of becoming a **Software Engineer & Web Developer**. My journey involves both backend and frontend development, and I also have a strong interest in **UI/UX design**.
 
 ### Skills
 
