@@ -30,12 +30,7 @@ Besides development, I have a deep passion for **graphic design**, specializing 
 
 ### Goals
 
-I aim to transition into a **Software Engineer** role, where I can combine my love for coding and design to build innovative, user-friendly software solutions.
-
-### Projects
-
-- **Portfolio Website**: A showcase of my projects, built with React, using smooth animations and responsive design.
-- **Mobile App**: Currently developing a cross-platform app with Flutter and SQLite for offline data management.
+I aim to transition into a **Software Engineer & Web Developer** role, where I can combine my love for coding and design to build innovative, user-friendly software solutions.
 
 ###
 
