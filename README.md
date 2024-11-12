@@ -9,7 +9,7 @@ I'm a **Fullstack Developer** passionate about creating efficient, scalable, and
 - **Frontend** : HTML, CSS, JavaScript, React.js, Tailwind CSS
 - **Backend** : PHP, MySQL, SQLite
 - **Mobile Development** : Flutter, Dart
-- **UI/UX Design** : Figma, Adobe XD, Photoshop
+- **UI/UX Design** : Figma, Adobe Photoshop
 - **Databases** : SQLite, MySQL
 - **Version Control** : Git, GitHub
 
