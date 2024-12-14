@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Fullstack Developer** passionate about creating efficient, scalable, and user-friendly applications. Currently, I'm diving deeper into **React**, **Flutter**, **Tailwind** and **SQLite**, with the goal of becoming a **Software Engineer & Web Developer**. My journey involves both backend and frontend development, and I also have a strong interest in **UI/UX design**.
+I'm a **Fullstack Developer** passionate about creating efficient, scalable, and user-friendly applications. Currently, I'm diving deeper into **React**, **Flutter**, **Tailwind**,**FIREBASE** and **SQLite**, with the goal of becoming a **Software Engineer & Web Developer**. My journey involves both backend and frontend development, and I also have a strong interest in **UI/UX design**.
 
 ### Skills
 
@@ -10,7 +10,7 @@ I'm a **Fullstack Developer** passionate about creating efficient, scalable, and
 - **Backend** : PHP, MySQL, SQLite
 - **Mobile Development** : Flutter, Dart
 - **UI/UX Design** : Figma, Adobe Photoshop
-- **Databases** : SQLite, MySQL
+- **Databases** : SQLite, MySQL, FIREBASE
 - **Version Control** : Git, GitHub
 
 ### What I'm Learning
