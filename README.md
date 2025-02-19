@@ -1,4 +1,4 @@
-# Hi, I'm soraally1 👋
+# Hi, I'm soraally1 AKA Daffa Kumara Seta Rahmasina👋
 
 ## About Me
 
