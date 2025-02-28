@@ -42,7 +42,7 @@ I aim to transition into a **Software Engineer & Web Developer** role, where I c
 Feel free to explore my repositories and connect with me for collaboration or any exciting projects!
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portofolio2-chi.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sorally.site/)
 [![Instagram](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aosor4/)
 
 
