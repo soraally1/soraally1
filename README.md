@@ -30,7 +30,7 @@ Besides development, I have a deep passion for **graphic design**, specializing 
 
 ### Goals
 
-I aim to transition into a **Software Engineer & Web Developer** role, where I can combine my love for coding and design to build innovative, user-friendly software solutions.
+I was love to be **Software Engineer & Web Developer** role, where I can combine my love for coding and design to build innovative, user-friendly software solutions.
 
 ###
 
