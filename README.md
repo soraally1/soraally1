@@ -6,8 +6,8 @@ I'm a **Fullstack Developer** passionate about creating efficient, scalable, and
 
 ### Skills
 
-- **Frontend** : HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend** : PHP, MySQL, SQLite
+- **Frontend** : HTML, CSS, JavaScript, Next JS, React.js, Tailwind CSS
+- **Backend** : PHP, MySQL, SQLite, Node JS
 - **Mobile Development** : Flutter, Dart
 - **UI/UX Design** : Figma, Adobe Photoshop
 - **Databases** : SQLite, MySQL, FIREBASE
