@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Fullstack Software Engineer** passionate about creating efficient, scalable, and user-friendly applications. Currently, I'm diving deeper into AI Reasearch, and Develop Fullstack Software and Game Developing, with the goal of becoming a **Software Engineer & Game Developer**. My journey involves both backend and frontend development, and I also have a strong interest in **UI/UX design**.
+I'm a **Fullstack Software Engineer** passionate about creating efficient, scalable, and user-friendly applications. Currently, I'm diving deeper into **AI Reasearch, Develop Fullstack Software** and **Game Developing** with the goal of becoming a **Software Engineer & Game Developer**. My journey involves both backend and frontend development, and I also have a strong interest in **UI/UX design**.
 
 ### Skills
 
