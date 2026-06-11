@@ -7,11 +7,11 @@ I'm a **Fullstack Software Engineer** passionate about creating efficient, scala
 ### Skills
 
 - **Frontend** : Next JS, React.js, Tailwind CSS
-- **Backend** : PHP, MySQL, SQLite, Node JS, Golang
+- **Backend** : PHP, Firebase, Node JS, Golang
 - **Mobile Development** : React Native
 - **UI/UX Design** : Figma, Adobe Photoshop
 - **3D Modeling** : Blender
-- **Databases** : SQLite, MySQL, FIREBASE
+- **Databases** : SQLite, MySQL, Firebase
 - **Version Control** : Git, GitHub
 
 ### Design Expertise
