@@ -2,22 +2,17 @@
 
 ## About Me
 
-I'm a **Fullstack Developer** passionate about creating efficient, scalable, and user-friendly applications. Currently, I'm diving deeper into **React**, **Flutter**, **Tailwind**,**FIREBASE** and **SQLite**, with the goal of becoming a **Software Engineer & Web Developer**. My journey involves both backend and frontend development, and I also have a strong interest in **UI/UX design**.
+I'm a **Fullstack Software Engineer** passionate about creating efficient, scalable, and user-friendly applications. Currently, I'm diving deeper into AI Reasearch, and Develop Fullstack Software and Game Developing, with the goal of becoming a **Software Engineer & Game Developer**. My journey involves both backend and frontend development, and I also have a strong interest in **UI/UX design**.
 
 ### Skills
 
-- **Frontend** : HTML, CSS, JavaScript, Next JS, React.js, Tailwind CSS
-- **Backend** : PHP, MySQL, SQLite, Node JS
-- **Mobile Development** : Flutter, Dart
+- **Frontend** : Next JS, React.js, Tailwind CSS
+- **Backend** : PHP, MySQL, SQLite, Node JS, Golang
+- **Mobile Development** : React Native
 - **UI/UX Design** : Figma, Adobe Photoshop
+- **3D Modeling** : Blender
 - **Databases** : SQLite, MySQL, FIREBASE
 - **Version Control** : Git, GitHub
-
-### What I'm Learning
-
-- **React**: Building interactive UIs with components and state management.
-- **Flutter**: Creating cross-platform mobile applications with Dart.
-- **SQLite**: Managing local databases for both mobile and web applications.
 
 ### Design Expertise
 
@@ -27,10 +22,6 @@ Besides development, I have a deep passion for **graphic design**, specializing 
 - **Logo and branding** design
 - **Promotional content** creation
 - **Video editing**
-
-### Goals
-
-I was love to be **Software Engineer & Web Developer** role, where I can combine my love for coding and design to build innovative, user-friendly software solutions.
 
 ###
 
