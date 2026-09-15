@@ -117,7 +117,7 @@ Berikut beberapa proyek yang telah saya kembangkan:
 
 ---
 
-## 🤝 Mari Terhubung & Berkolaborasi!
+## 🤝 Lets Get Connect!!
 
 Saya selalu terbuka untuk diskusi seputar teknologi, peluang kolaborasi proyek, maupun kontribusi open source. Silakan hubungi saya melalui:
 
