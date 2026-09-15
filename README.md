@@ -79,21 +79,6 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 ---
 
-## 🎯 Proyek Pilihan (Featured Projects)
-
-Berikut beberapa proyek yang telah saya kembangkan:
-
-| Proyek | Deskripsi | Tech Stack |
-| :--- | :--- | :--- |
-| 🩺 **[GlucoVision](https://github.com/soraally1/glucovision)** | Solusi monitoring cerdas dan visualisasi data kesehatan. | `TypeScript`, `Next.js` |
-| ☕ **[Atas-Kota-Coffe](https://github.com/soraally1/Atas-Kota-Coffe)** | Website promosi dan katalog interaktif untuk UMKM Atas Kota Coffee. | `JavaScript`, `Web` |
-| 📱 **[CoffeApp](https://github.com/soraally1/CoffeApp)** | Aplikasi mobile untuk katalog dan sistem pemesanan minuman. | `Mobile`, `UI/UX` |
-| 🌍 **[Flutter-Google-Map-Gempa](https://github.com/soraally1/Flutter-Google-Map-Gempa)** | Integrasi peta interaktif dan pemantauan gempa bumi real-time berbasis SQLite. | `Flutter`, `Dart`, `SQLite` |
-| 🌦️ **[flutter_bmkg_api_fetcher](https://github.com/soraally1/flutter_bmkg_api_fetcher)** | Aplikasi penarik dan visualisasi data cuaca BMKG berbasis Flutter. | `Flutter`, `REST API` |
-| 🏆 **[KidiHackathon 2024](https://github.com/soraally1/kidihackathon2024df)** | Proyek kolaboratif kompetisi hackathon bersama tim SMKN 8 Semarang. | `JavaScript`, `Fullstack` |
-
----
-
 ## 📊 Statistik Aktivitas GitHub
 
 <div align="center">
